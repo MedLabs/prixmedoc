@@ -11,4 +11,5 @@ intro:
   hi: Hi, {name}!
   aka: Also known as
   search: Search
+  updated: updated
 not-found: Not found

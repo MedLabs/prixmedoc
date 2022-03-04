@@ -35,6 +35,9 @@ function showDrug(pct: number) {
     <p>
       <em class="text-sm opacity-75">{{ t('intro.desc') }}</em>
     </p>
+    <p>
+      <em class="text-sm opacity-75">{{ t('intro.updated') }} 10-02-2022</em>
+    </p>
 
     <div class="py-4" />
 

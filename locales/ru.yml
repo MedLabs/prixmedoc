@@ -10,4 +10,5 @@ intro:
   dynamic-route: Демо динамического маршрута
   hi: Привет, {name}!
   search: поиск
+  updated: обновлен
 not-found: Не найден
