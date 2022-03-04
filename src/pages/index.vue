@@ -12,7 +12,7 @@ const selectedDrug = ref({
   ap: '',
 })
 
-const filtered = computed(() => drugs.filter(item => item.name.toLowerCase().includes(filter.value.toLowerCase())))
+const filtered = computed(() => drugs.filter(item => item.name.toLowerCase().includes(filter.value.toLowerCase()) || item.pct.toString().includes(filter.value.toString()) || item.dci.toLowerCase().includes(filter.value.toLowerCase())))
 
 const { t } = useI18n()
 
@@ -50,7 +50,7 @@ function showDrug(pct: number) {
       autocomplete="false"
       p="x-4 y-2"
       m="y-4"
-      w="250px"
+      w="300px"
       bg="transparent"
       border="~ rounded gray-200 dark:gray-700"
       outline="none active:none"

@@ -10,6 +10,6 @@ intro:
   dynamic-route: Démo de route dynamique
   hi: Salut, {name}!
   aka: Aussi connu sous le nom de
-  search: Chercher
+  search: Chercher par Nom PCT ou DCI
   updated: mise à jour
 not-found: Page non trouvée
