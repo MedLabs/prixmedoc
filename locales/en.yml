@@ -1,0 +1,14 @@
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+intro:
+  desc: Fastest way to find drugs prices
+  dynamic-route: Demo of dynamic route
+  hi: Hi, {name}!
+  aka: Also known as
+  search: Search
+not-found: Not found
