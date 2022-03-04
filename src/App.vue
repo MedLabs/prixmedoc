@@ -3,9 +3,9 @@
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'Vitespa',
+  title: 'PrixMédoc',
   meta: [
-    { name: 'description', content: 'Like Vitesse but without SSG' },
+    { name: 'description', content: 'Trouvez rapidement le prix du médicament' },
   ],
 })
 </script>
