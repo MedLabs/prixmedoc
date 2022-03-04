@@ -85,7 +85,7 @@ function showDrug(pct: number) {
                   class="border-b odd:bg-white even:bg-gray-50 odd:dark:bg-gray-800 even:dark:bg-gray-700 dark:border-gray-600 hover:bg-lime-200 dark:hover:bg-lime-700"
                   @click="showDrug(drug.pct)"
                 >
-                  <td class="py-4 px-6 text-sm text-gray-900  dark:text-white">
+                  <td class="py-4 px-6 text-sm text-gray-900 text-left  dark:text-white">
                     {{ drug.pct }}
                   </td>
                   <td class="py-4 px-6 text-sm font-medium text-left text-gray-900  dark:text-white">

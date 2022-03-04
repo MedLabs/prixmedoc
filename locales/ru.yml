@@ -6,8 +6,8 @@ button:
   toggle_dark: Включить темный режим
   toggle_langs: Сменить язык
 intro:
-  desc: Самостоятельный начальный шаблон Vite
+  desc: быстро найти цены на лекарства
   dynamic-route: Демо динамического маршрута
   hi: Привет, {name}!
-  whats-your-name: Как тебя зовут?
+  search: поиск
 not-found: Не найден
